@@ -1,3 +1,6 @@
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+
 #include "Touch.h"
 #include "Common.h"
 #include "Screen.h"

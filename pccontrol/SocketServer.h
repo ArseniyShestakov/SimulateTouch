@@ -6,6 +6,7 @@
 #include <netinet/in.h>
 #include <arpa/inet.h>
 #include <unistd.h>
+#include <Foundation/Foundation.h>
 
 #define PORT 6000
 #define ADDR "0.0.0.0"

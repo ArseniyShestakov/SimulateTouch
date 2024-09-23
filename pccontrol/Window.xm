@@ -1,5 +1,8 @@
-#import "Window.h"
+#import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
+#import <CoreFoundation/CoreFoundation.h>
+#include <stdint.h>
+#import "Window.h"
 
 // This is a base class
 @implementation Window

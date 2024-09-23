@@ -3,6 +3,7 @@
 #include <arpa/inet.h>
 #include <unistd.h>
 #include <string.h>
+#import <Foundation/Foundation.h>
 #include "NSTask.h"//in ~/theos/include/NSTask.h
 
 #define SPRINGBOARD_PORT 6000

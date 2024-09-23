@@ -1,3 +1,5 @@
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
 #include "Screen.h"
 #include "Common.h"
 

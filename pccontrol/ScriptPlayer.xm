@@ -1,3 +1,7 @@
+#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
+#import <CoreFoundation/CoreFoundation.h>
+#include <stdint.h>
 #import "ScriptPlayer.h"
 #include "Play.h"
 #include "SocketServer.h"

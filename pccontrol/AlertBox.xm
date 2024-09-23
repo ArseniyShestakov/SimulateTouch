@@ -1,3 +1,7 @@
+#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
+#import <CoreFoundation/CoreFoundation.h>
+#include <stdint.h>
 #include "AlertBox.h"
 #include "SocketServer.h"
 

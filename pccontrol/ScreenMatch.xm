@@ -1,3 +1,7 @@
+#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
+#import <CoreFoundation/CoreFoundation.h>
+#include <stdint.h>
 #include "ScreenMatch.h"
 #include "TemplateMatch.h"
 #include "Screen.h"

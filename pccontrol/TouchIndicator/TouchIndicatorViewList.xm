@@ -1,3 +1,7 @@
+#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
+#import <CoreFoundation/CoreFoundation.h>
+#include <stdint.h>
 #import "TouchIndicatorViewList.h"
 
 #define DEFAULT_INIT_SIZE 6

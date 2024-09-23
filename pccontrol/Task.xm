@@ -1,3 +1,6 @@
+#import <UIKit/UIKit.h>
+#import <CoreFoundation/CoreFoundation.h>
+#include <stdint.h>
 #include "Task.h"
 #include "Touch.h"
 #include "Process.h"
@@ -12,6 +15,7 @@
 #include "DeviceInfo.h"
 #include "TouchIndicator/TouchIndicatorWindow.h"
 #import <mach/mach.h>
+//#include <CoreFoundation/CoreFoundation.h>
 #include <Foundation/NSDistributedNotificationCenter.h>
 #include <TextRecognization/TextRecognizer.h>
 #include "UpdateCache.h"

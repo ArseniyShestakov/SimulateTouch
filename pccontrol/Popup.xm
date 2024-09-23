@@ -1,10 +1,13 @@
+#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
+#import <CoreFoundation/CoreFoundation.h>
+#include <stdint.h>
 #import "Popup.h"
 #import "Screen.h"
 #import "Record.h"
 #include "Play.h"
 #include "AlertBox.h"
 #include "Toast.h"
-#import <UIKit/UIKit.h>
 
 extern CGFloat device_screen_width;
 extern CGFloat device_screen_height;
