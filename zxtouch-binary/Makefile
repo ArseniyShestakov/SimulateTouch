@@ -1,8 +1,8 @@
 #export THEOS_DEVICE_IP = 192.168.101.245
-TARGET := iphone:clang:latest:14.5
+TARGET := iphone:clang:latest:15.0
 include $(THEOS)/makefiles/common.mk
 
-zxtouchb_ARCH = arm64 arm64e
+zxtouchb_ARCH = arm64
 TOOL_NAME = zxtouchb
 
 zxtouchb_FILES = main.mm

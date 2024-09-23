@@ -1,6 +1,6 @@
 #export THEOS_DEVICE_IP = 192.168.0.6
 TARGET := iphone:clang:latest:15.0
-export ARCHS = arm64 
+export ARCHS = arm64
 include $(THEOS)/makefiles/common.mk
 
 TWEAK_NAME = pccontrol
